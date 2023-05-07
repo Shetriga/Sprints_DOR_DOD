@@ -1,0 +1,8 @@
+We can say that the story is ready to be taken into a sprint when it is:
+  - Independent of all other stories
+  - Valuable (delivers a certain value to our app)
+  - Small (small enough to fit into a sprint)
+  - Testable (Even if the test itself not ready yet)
+  - Acceptance criteria for the story should be clearly defined
+  - The person who will accept the user story after it is finished is identified
+  - The development team is able to demonstrate the user story
